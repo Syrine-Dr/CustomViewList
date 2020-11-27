@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomViewList</string>
+    <string name="image_description">descriptionImage</string>
+    <string name="text_description">CsutomListView</string>
+</resources>
